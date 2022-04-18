@@ -14,5 +14,145 @@ D. Cutmix
 BLOCK DIAGRAM OF APPROACH-
 ![image](https://user-images.githubusercontent.com/51284717/163812041-89214861-671b-4f64-a97c-f2847d422600.png)
 
-Result -![image](https://user-images.githubusercontent.com/51284717/163812206-8be78151-a3d2-4a4e-b17c-0575dd1bee1a.png)
+Result -
+
+
+ 
+ 
+ 
+  
+  Name
+
+
+  
+  
+  Training Loss
+
+
+  
+  
+  Training Accuracy
+
+
+  
+  
+  Validation Loss
+
+
+  
+  
+  Validation Accuracy
+
+
+  
+ 
+ 
+  
+  CNN 
+
+
+  
+  
+  0.3736
+
+
+  
+  
+  0.8146
+
+
+  
+  
+  0.3545
+
+
+  
+  
+  0.8273
+
+
+  
+ 
+ 
+  
+  Size change
+
+
+  
+  
+  0.1526
+
+
+  
+  
+  0.9351
+
+
+  
+  
+  0.4358
+
+
+  
+  
+  0.8030
+
+
+  
+ 
+ 
+  
+  Augmentation
+
+
+  
+  
+  0.1409
+
+
+  
+  
+  0.9417
+
+
+  
+  
+  0.4672
+
+
+  
+  
+  0.8409
+
+
+  
+ 
+ 
+  
+  Augmentation with regularization
+
+
+  
+  
+  1.5378
+
+
+  
+  
+  0.5441
+
+
+  
+  
+  1.4850
+
+
+  
+  
+  0.5379
+
+
+  
+ 
+
 
